@@ -1,0 +1,1 @@
+Run express_web.py first and then run express_info.py. You can add express information in express_info, apply for an external IP address and use the router port forwarding function to forward to the local IP address so that customers can query the information.
